@@ -37,7 +37,6 @@ logged_in_account_sharia = bank.login("S9901", "12345")
 
 logged_in_accounts = []
 
-# Contoh deposit dan penarikan untuk akun konvensional
 if logged_in_account_conv:
     logged_in_account_conv.deposit(11532)
     logged_in_account_conv.withdraw(9181)
@@ -47,7 +46,6 @@ if logged_in_account_conv:
 
     logged_in_accounts.append(logged_in_account_conv)
 
-# Contoh deposit dan penarikan untuk akun syariah
 if logged_in_account_sharia:
     logged_in_account_sharia.deposit(19223)
     logged_in_account_sharia.withdraw(24778)
