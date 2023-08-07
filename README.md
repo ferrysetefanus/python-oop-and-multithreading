@@ -1,7 +1,5 @@
 # python-oop-and-multithreading
 
-# Judul Proyek
-
 [Deskripsi singkat proyek]
 
 ## Daftar Isi
