@@ -26,7 +26,7 @@ case 1 :
 
 ## Contoh Penggunaan
 
-```
+```python
 conv_account = ConventionalSavings("C4501", "Benjamin Pavard", 40210, 0.05, 1000, "12345")
 sharia_account = ShariaSavings("S9901", "Dayot Upamecano", 78121, 0.0, "12345")
 bank.register_account(conv_account)
