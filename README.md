@@ -7,11 +7,8 @@
 ## Daftar Isi
 
 - [Deskripsi](#deskripsi)
-- [Instalasi](#instalasi)
 - [Cara Menggunakan](#cara-menggunakan)
 - [Contoh Penggunaan](#contoh-penggunaan)
-- [Kontribusi](#kontribusi)
-- [Lisensi](#lisensi)
 
 ## Deskripsi
 
